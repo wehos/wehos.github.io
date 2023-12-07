@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wehos.github.io/wehos.github.io/sitemap.xml
+Sitemap: https://wehos.github.io/sitemap.xml
